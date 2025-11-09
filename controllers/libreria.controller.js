@@ -1,5 +1,5 @@
 
-import Libro from '../models/libreria.model.js'; // Importamos el modelo correcto
+import Libro from '../models/libreria.model.js'; 
 import mongoose from 'mongoose';
 
 // [GET] Obtener todos los libros
